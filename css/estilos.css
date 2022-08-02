@@ -1,0 +1,328 @@
+      /*  #body1 {
+            background-color: #aca2f3;
+        }
+        =================================== header ====================================*/
+      
+      .submenu {
+          text-align: center;
+      }
+      
+      #subcab {
+          background-color: #897af5;
+          color: white;
+          margin-top: -2px;
+          margin-left: -1px;
+          margin-right: -1px;
+          margin-bottom: 10px;
+      }
+      
+      .header {
+          overflow: hidden;
+          background-color: #5745e7;
+          padding: 5px;
+          height: 50px;
+      }
+      
+      .header button {
+          float: left;
+          color: white;
+          text-align: center;
+          padding: 10px;
+          text-decoration: none;
+          font-size: 18px;
+          line-height: 10px;
+          border-radius: 4px;
+          text-decoration: none;
+      }
+      
+      .header a {
+          float: left;
+          color: white;
+          text-align: center;
+          padding: 10px;
+          text-decoration: none;
+          font-size: 18px;
+          line-height: 10px;
+          border-radius: 4px;
+          text-decoration: none;
+      }
+      
+      .header a:hover {
+          background-color: #897af5;
+          color: white;
+          text-decoration: none;
+      }
+      
+      .header-right {
+          float: right;
+      }
+      
+      .header-centro {
+          text-align: center;
+          font-size: 18px;
+          color: white;
+      }
+      
+      .header-nome {
+          float: left;
+          color: white;
+          font-size: 18px;
+          margin-top: 5px;
+      }
+      /*================================ tela de login ==============================================*/
+      
+      #fundo-externo {
+          overflow: hidden;
+          width: 100%;
+          height: 100%;
+          position: relative;
+      }
+      
+      #fundo {
+          position: fixed;
+          width: 100%;
+          height: 100%;
+      }
+      
+      #fundo img {
+          width: 100%;
+          position: absolute;
+      }
+      
+      .longinbox {
+          color: red;
+      }
+      
+      .imagem {
+          position: fixed;
+          overflow: hidden;
+          width: 100%;
+          height: 110%;
+          overflow: hidden;
+      }
+      
+      .fundo {
+          background-size: 100%;
+      }
+      
+      .fundo1 {
+          background-size: 100%;
+      }
+      
+      #login body {
+          margin: 0;
+          padding: 0;
+          min-height: 90vh;
+      }
+      
+      .longin1 {
+          color: #5745e7;
+      }
+      
+      .botao1 {
+          background-color: #5745e7;
+          color: white;
+          float: right;
+      }
+      
+      #botao1:hover {
+          background-color: #4631e9;
+          color: white;
+          float: right;
+      }
+      
+      #login .container #login-row #login-column #login-box {
+          margin-top: 120px;
+          max-width: 600px;
+          height: 320px;
+          border: 1px solid #9C9C9C;
+          background-color: #EAEAEA;
+      }
+      
+      #login .container #login-row #login-column #login-box #login-form {
+          padding: 20px;
+      }
+      
+      #login .container #login-row #login-column #login-box #login-form #register-link {
+          margin-top: -85px;
+      }
+      /*=================================footer====================================*/
+      /*=================================Forms====================================*/
+      
+      h11 {
+          color: red;
+      }
+      
+      h10 {
+          color: rgb(0, 153, 180);
+      }
+      
+      #logo {
+          width: 50%;
+          height: 50%;
+      }
+      
+      .panel-heading {
+          font-size: 150%;
+      }
+      
+      .mostrar {
+          background-color: transparent;
+          border: transparent;
+      }
+      /*=========================================botões============================================*/
+      
+      .botaoaluno {
+          margin-right: 10px;
+      }
+      
+      #cadastrobtn {
+          float: right;
+      }
+      
+      #tudobtn {
+          margin-top: 10px;
+          margin-bottom: 10px;
+          float: right;
+      }
+      
+      #voltarbtn {
+          margin-top: 10px;
+          margin-bottom: 10px;
+          float: right;
+      }
+      
+      .butonsub {
+          background-color: #796aee;
+          color: white;
+          margin-bottom: 10px;
+      }
+      
+      #cadastrobtn:hover {
+          color: white;
+          background-color: #6a59ee;
+      }
+      
+      #tudobtn:hover {
+          color: white;
+          background-color: #6a59ee;
+      }
+      /*===================================home====================================*/
+      
+      .menudireita {
+          float: right;
+          width: 453.7px;
+          height: 410.8px;
+      }
+      
+      .menuesquerda {
+          float: left;
+          width: 453.7px;
+          height: 410.8px;
+      }
+      
+      .menudireita1 {
+          float: right;
+          width: 453.7px;
+          height: 410.8px;
+          margin-right: 90px;
+      }
+      
+      .menuesquerda1 {
+          float: left;
+          width: 453.7px;
+          height: 410.8px;
+          margin-left: 90px;
+      }
+      
+      #imgmenu4 {
+          width: 449.8px;
+          height: 410.8px;
+          margin-top: 60px;
+          margin-bottom: 60px;
+      }
+      
+      #imgmenu1 {
+          width: 400.8px;
+          height: 377.4px;
+          margin-top: 60px;
+          margin-bottom: 60px;
+      }
+      
+      #imgmenu5 {
+          width: 445.25px;
+          height: 402.35px;
+          margin-top: 60px;
+          margin-bottom: 60px;
+      }
+      
+      #imgmenu2 {
+          width: 421.2px;
+          height: 376.8px;
+          margin-top: 60px;
+          margin-bottom: 60px;
+      }
+      
+      #imgmenu3 {
+          width: 412.8px;
+          height: 373.2px;
+          margin-top: 60px;
+          margin-bottom: 60px;
+      }
+      
+      .home {
+          margin: auto;
+          background-color: #aca2f3;
+          height: 70px;
+          width: 90%;
+          border-color: transparent;
+          margin-top: -5;
+          color: white;
+          font-size: 30px;
+          margin-bottom: 10px;
+          border-radius: 10px;
+          margin-left: auto;
+          margin-right: auto;
+      }
+      
+      .home:hover {
+          background-color: #897af5;
+          height: 70px;
+          width: 90%;
+          border-color: transparent;
+          margin-top: -5;
+          color: white;
+          font-size: 30px;
+          margin-bottom: 10px;
+      }
+      
+      .home1 {
+          text-align: center
+      }
+      /*===================================tabelas====================================*/
+      
+      .divtable {
+          padding-left: 30px;
+          padding-right: 30px;
+      }
+      
+      .bordas th {
+          border-collapse: collapse;
+          background: #aca2f3;
+          border-right: black;
+          color: white;
+      }
+      
+      .nome_turma1 {
+          font-size: 20px;
+          border-bottom: 5px;
+      }
+      
+      #notas,
+      #notas_botão {
+          display: none;
+      }
+      
+      .unidadeabc {
+          border-bottom: 5px;
+      }
